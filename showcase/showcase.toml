@@ -1,0 +1,15 @@
+[[media]]
+file = "pressure.json.gz"
+name = "A fracture becomes a chain"
+
+[[media]]
+file = "board.png"
+name = "The stones under pressure"
+
+[[media]]
+file = "chain.png"
+name = "Spending a fault line"
+
+[[media]]
+file = "title.png"
+name = "Welcome to the bench"
